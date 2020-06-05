@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Database</string>
+    <string name="add_word">add_word</string>
+    <string name="image">ImageView</string>
+    <string name="hint_word">Word...</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Word not saved because it is empty</string>
+    <string name="product_description">Product Description</string>
+    <string name="product_price">Product Price</string>
+    <string name="button">Add product</string>
+    <string name="product_name">Product Name</string>
+    <string name="product">Product Name, Description and Price</string>
+    <string name="name">Product Name:</string>
+    <string name="description">Product Description:</string>
+    <string name="price">Product Price:</string>
+</resources>

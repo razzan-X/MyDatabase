@@ -1,0 +1,2 @@
+rootProject.name='My Database'
+include ':app'
